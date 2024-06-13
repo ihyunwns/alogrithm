@@ -1,0 +1,11 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş¾€‡8ËæÃÑØ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø²€Ÿüÿÿÿÿ8ÌæÃÑØ1
+S
+java:S1854"6Remove this useless assignment to local variable "br".(ßÅÍ”8İ˜ÄÑØ1
+_
+java:S1854"BRemove this useless assignment to local variable "bufferedReader".(ÌøÎî8øªÆÑØ1
+P
+java:S1481"3Remove this unused "bufferedReader" local variable.(ÌøÎî8ß˜ÄÑØ1
+D
+java:S1481"'Remove this unused "br" local variable.(ßÅÍ”8úªÆÑØ1

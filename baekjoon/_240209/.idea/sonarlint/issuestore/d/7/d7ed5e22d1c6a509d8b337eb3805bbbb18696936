@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø²€Ÿüÿÿÿÿ8¹±ÓÒØ1
+`
+java:S3518#">Make sure "scoreACC" can't be zero before doing this division.(§Îâûÿÿÿÿÿ8½±ÓÒØ1
+I
+java:S3599
+",Use another way to initialize this instance.(ª‹Š¿8¿±ÓÒØ1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8À±ÓÒØ1
+L	java:S106#"+Replace this use of System.out by a logger.(§Îâûÿÿÿÿÿ8Ä±ÓÒØ1

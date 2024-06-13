@@ -1,0 +1,6 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä›Öÿÿÿÿÿ8ÅÅ´»Ø1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø²€Ÿüÿÿÿÿ8ÆÅ´»Ø1
+G	java:S106"+Replace this use of System.out by a logger.(‘‹¼8ÚÅ´»Ø1
+C
+java:S1659"!Declare "max" on a separate line.(Õ¥Èÿÿÿÿÿÿ8ÜÅ´»Ø1
