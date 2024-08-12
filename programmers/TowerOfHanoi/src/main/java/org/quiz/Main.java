@@ -22,16 +22,16 @@ class Solution {
 
     private void hanoi(int cnt, int start, int mid, int end) {
         if (cnt == 1) {
-            move(start, end, cnt);
+            move(start, end);
             return;
         }
 
         hanoi(cnt - 1, start, end, mid);
-        move(start, end, cnt);
+        move(start, end);
         hanoi(cnt - 1, mid, start, end);
     }
 
-    private void move(int start, int end, int cnt) {
+    private void move(int start, int end) {
         arr.add(new int[]{start, end});
     }
 }
