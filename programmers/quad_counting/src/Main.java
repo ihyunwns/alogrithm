@@ -14,7 +14,6 @@ class Solution {
     static int[] answer = new int[]{0, 0};
 
     public int[] solution(int[][] arr) {
-
         quad_divide(arr);
         return answer;
     }
